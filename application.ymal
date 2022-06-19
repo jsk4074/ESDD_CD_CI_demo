@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/kjs1111/argocd_demo.git
+    repoURL: https://github.com/jsk4074/ESDD_CD_CI_demo.git
     targetRevision: HEAD
     path: dev
   destination: 
